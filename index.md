@@ -55,7 +55,8 @@ a previous task) after 7PM. Lastly, I am an avid motorcyclist outside of work, s
 
 ## How To Know I’ve Gone To The Dark Side
 
-
+I tend to procrastinate when overloaded with too many tasks. If I keep putting things off and never get around to doing them,
+that is a good sign that I am overloaded and hav too much going on.
 
 ### Warning Signs
 
@@ -66,7 +67,7 @@ a way to disconnect and recharge.
 
 ### How to help
 
-Dank memes are always appreciated - I always enjoy a good laugh.
+Dank memes are always appreciated - I always enjoy a good laugh. If that fails, a virtual drink shared with coworkers is always a fun time.
 
 
 ## Me Being Me
