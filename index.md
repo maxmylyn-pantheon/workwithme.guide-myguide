@@ -17,7 +17,7 @@ full_name: J. Max mena
 
 * Forgiveness
 
-* Advancement
+* Humor
 
 ## Personality
 
