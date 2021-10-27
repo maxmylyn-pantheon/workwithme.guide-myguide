@@ -21,15 +21,16 @@ full_name: J. Max mena
 
 ## Personality
 
-How do you act in the world? This can be a combination of descriptive and aspirational traits.
+I treat all human interactions as a way to learn something new. Be it a fact about the person I'm talking to or a chance for them to teach me
+something new. Because of that, I find myself to be a self-taught accidental socialite. I love getting to know new people, and always cherish
+the opportunity to have a deep conversation.
 
 ## Receiving Feedback & Recognition
 
-How do you best receive feedback, be it positive or negative?
+Feedback is always best received the same way as a fine whiskey: straight, and without watering it down
 
-What about when one of us wants to call you out in some way for something awesome you did, a
-great piece of advice you gave, an insight you had, or your amazing Cat Thursday shirt—how do
-you feel most comfortable receiving that recognition?
+I love getting thanks as a recognition for a job well done. It doesn't have to be public, even a PM thanking me for help is enough to make me
+feel all warm and fuzzy inside.
 
 ## Work Patterns
 
