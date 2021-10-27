@@ -1,8 +1,8 @@
 ---
 layout: profile
 # Set both of these to your name
-title: First Last
-full_name: First Last
+title: J. Max Mena 
+full_name: J. Max mena
 # Set this to the Github URL for links to work correctly
 # github_url: https://github.com/abloomston/workwithme.guide-myguide/
 # To add a custom profile picture, add your profile picture to this directory, update, and uncomment the relative link below.
@@ -11,18 +11,13 @@ full_name: First Last
 # categories: [profile]
 ---
 
-_Two important points about your Work With Me document:_
-
-1. It's your document—this is just a starting point to help you in beginning to write it. Feel free to add and
-remove sections. Feel free to start with an empty page and fill it out however you'd like.
-1. It's meant to be a change with you—update it as frequently (or infrequently) as you'd like.
-
-_You might want to [estimate the reading time](http://niram.org/read/) of your document and keep it to 5 minutes or less._
-
 ## Values
 
-What do you value most in the world, in people, and/or in yourself? You might find it helpful to
-spend a few minutes [googling "list of values"](https://www.google.com/search?q=list+of+values) and finding the values that most resonate with you.
+* Cooperation
+
+* Forgiveness
+
+* Advancement
 
 ## Personality
 
@@ -38,58 +33,75 @@ you feel most comfortable receiving that recognition?
 
 ## Work Patterns
 
-What hours do you usually work?
+I try to keep my working hours to the typical 9-5 office schedule, centered in PST. I try not to
+work outside of regular business hours. However, I have been known to take a break during the day,
+and wrap things up after hours
 
-When do you prefer to work alone, versus in groups? How do your energy levels fluctuate through-
-out the day?
+Late morning and early afternoon are my peak productivity hours. I try to center meetings around my
+lunch break mid-day. After 3PM, my productivity sowly wanes into nothing as the day progresses. Lastly,
+I will always take an espresso break sometime between 2 and 4 PM, usually 3 PM.
 
 ## Communication Preferences
 
-What should people expect from you when they reach out to you on Yammer, Email, or Slack?
-How should people best get your attention for urgent matters, during and out of your working
+My email inbox is a black hole filled with marketing cruft and automated messages. Expect any emails to disappear
+and never be acknowledged, and be pleasantly surprised if they are. I listen for the Slack notification, and
+am on every major chatting App - Telegram, Signal, Slack, Discord, etc etc. In the 21st century, it's harder
+to be avoided than it is to be reached, in my opinion.
 
+hours? 
 
-hours? What's your relationship to work communication when not at work? What are your signs
-that you'd prefer to not be interrupted when at work?
+Please try not to reach me after hours unless it is extremely urgent. I am liable to ignore my phone (unless on-call or continuing
+a previous task) after 7PM. Lastly, I am an avid motorcyclist outside of work, so if I am riding I will be unable to respond.
 
 ## How To Know I’ve Gone To The Dark Side
 
+
+
 ### Warning Signs
 
-When you don't feel safe in a conversation, how does this manifest itself in your actions or affects?
-What about when you're just not having an "on" or "good" day?
+Some days are better than others. It's not uncommon for me to have my webcam disabled and to sit on mute, so don't worry if that's the case.
+
+I consider myself a stable and disciplined individual, if I am having a difficult time, I will discuss it with my supervisor and figure out
+a way to disconnect and recharge.
 
 ### How to help
 
-This might also be a good place
-to present recommendations for how we can be supportive towards you when you've gone to the
-Dark Side.
+Dank memes are always appreciated - I always enjoy a good laugh.
+
 
 ## Me Being Me
 
-Any habits that of yours that can be easily misinterpreted? Here's a good place to point them out.
+I talk *a lot*. I know this, and do my best to try to pay attention in a conversation. Usually I am good at picking up on when I am speaking 
+over people, but sometimes I miss it. If that happens, I apologize, and if I am interrupting you, please please please tell me and I promise
+I will not take it personally.
+
 
 ## Pet Peeves
 
-_I don't expect this list to change your actions—but it might help you better understand and empathize with my
-reactions._
+None of my Pet Peeves are related to work. So, in the interest of putting something here, I will list my biggest one:
 
-Any pet peeves we should know about? Knowing them may not, and shouldn't be expected to,
-change others actions—but it might help us better understand and empathize with your reactions.
-In fact, you might want the disclaimer above to stay in your document.
+Ordering an Espresso and getting an Expresso back.
 
 ## Career Goals & Future Interests
 
-What long term career goals do you have for yourself? What interests do you hope or plan for your
-future self to obsess over.
+I love all of the good meta-questions that come up around SRE/DevOps, and find myself fascinated by the immediate questions that DevOps brings
+to the table, which is: How does my software actually work in production? How do I maintain it and set myself up with tools and methodologies that
+will allow me to build and _maintain_ an amazing product and scale it.
 
 ## Areas for Development
 
-Anything you'd like us to know about yourself that makes you (gasp!) not perfect? If they are as-
-pects you'd like to change or are working on, this might be a good place to point out constructive
-and positive ways we can help you be aware of and take corrective action in the moment.
+Improving my listening skills is my biggest area I am always working on. I am a speed reader and typer, but I always want to work on using my ears more.
+
 
 ## Ask Me About
 
-Let's get to know one another! Here's a great place to list things you've done / activities you love
-/ conversations you're (almost) always excited to have!
+
+* Aircooled Volkswagens
+
+* Motorcycling
+
+* 3D Printing
+
+* Traveling
+
+In general, I love learning! I love picking up new skills and hobbies, especially if it's something productive that I can do with my hands.
