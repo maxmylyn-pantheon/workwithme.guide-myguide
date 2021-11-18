@@ -2,7 +2,7 @@
 layout: profile
 # Set both of these to your name
 title: J. Max Mena 
-full_name: J. Max mena
+full_name: J. Max Mena
 # Set this to the Github URL for links to work correctly
 # github_url: https://github.com/abloomston/workwithme.guide-myguide/
 # To add a custom profile picture, add your profile picture to this directory, update, and uncomment the relative link below.
@@ -22,8 +22,8 @@ full_name: J. Max mena
 ## Personality
 
 I treat all human interactions as a way to learn something new. Be it a fact about the person I'm talking to or a chance for them to teach me
-something new. Because of that, I find myself to be a self-taught accidental socialite. I love getting to know new people, and always cherish
-the opportunity to have a deep conversation.
+something new. Because of that, I find myself to be a self-taught accidental socialite. I love getting to know new people, and always enjoy 
+the opportunity to have a conversation.
 
 ## Receiving Feedback & Recognition
 
@@ -45,30 +45,30 @@ I will always take an espresso break sometime between 2 and 4 PM, usually 3 PM.
 ## Communication Preferences
 
 My email inbox is a black hole filled with marketing cruft and automated messages. Expect any emails to disappear
-and never be acknowledged, and be pleasantly surprised if they are. I listen for the Slack notification, and
+and never be acknowledged, and be pleasantly surprised if they are. I try to listen for the Slack notification, and
 am on every major chatting App - Telegram, Signal, Slack, Discord, etc etc. In the 21st century, it's harder
 to be avoided than it is to be reached, in my opinion.
 
 hours? 
 
-Please try not to reach me after hours unless it is extremely urgent. I am liable to ignore my phone (unless on-call or continuing
-a previous task) after 7PM. Lastly, I am an avid motorcyclist outside of work, so if I am riding I will be unable to respond.
+Please try not to reach me after hours unless it is urgent. I am liable to ignore my phone (unless on-call or continuing
+a previous task) after 7PM. Most importantly, I am an avid motorcyclist outside of work, so if I am riding I will be unable to respond.
 
 ## How To Know I’ve Gone To The Dark Side
 
 I tend to procrastinate when overloaded with too many tasks. If I keep putting things off and never get around to doing them,
-that is a good sign that I am overloaded and hav too much going on.
+that is a good sign that I am overloaded and have too much going on.
 
 ### Warning Signs
 
 Some days are better than others. It's not uncommon for me to have my webcam disabled and to sit on mute, so don't worry if that's the case.
 
-I consider myself a stable and disciplined individual, if I am having a difficult time, I will discuss it with my supervisor and figure out
+I consider myself a stable and disciplined individual. If I am having a difficult time, I will discuss it with my supervisor and figure out
 a way to disconnect and recharge.
 
 ### How to help
 
-Dank memes are always appreciated - I always enjoy a good laugh. If that fails, a virtual drink shared with coworkers is always a fun time.
+Good memes are always appreciated - I always enjoy a good laugh. If that fails, a virtual drink shared with coworkers is always a fun time.
 
 
 ## Me Being Me
