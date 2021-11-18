@@ -4,7 +4,7 @@ layout: profile
 title: J. Max Mena 
 full_name: J. Max Mena
 # Set this to the Github URL for links to work correctly
-github_url: https://github.com/abloomston/workwithme.guide-myguide/
+github_url: https://github.com/maxmylyn-pantheon/workwithme.guide-myguide/
 # To add a custom profile picture, add your profile picture to this directory, update, and uncomment the relative link below.
 picture: ./jmm_profile.jpg
 # To add your name to the front page list, uncomment below
@@ -50,8 +50,6 @@ I will almost always take an espresso break sometime between 2 and 4 PM, usually
 
 The joys of remote first work is that I am also very flexible. I can start early or later, as needed.
 
-Occasionally I plan to be physically in the office.
-
 
 ## Communication Preferences
 
@@ -78,8 +76,7 @@ that is a good sign that I am overloaded and have too much going on.
 
 Some days are better than others. It's not uncommon for me to have my webcam disabled and to sit on mute, so don't worry if that's the case.
 
-I consider myself a stable and disciplined individual. If I am having a difficult time, I will discuss it with my supervisor and figure out
-a way to disconnect and recharge.
+I consider myself a stable and disciplined individual. If I am having a difficult time, I will discuss it with my supervisor and figure out a way to disconnect and recharge.
 
 
 ### How to help
@@ -106,6 +103,9 @@ Ordering an Espresso and getting an Expresso back.
 I love all of the good meta-questions that come up around SRE/DevOps, and find myself fascinated by the immediate questions that DevOps brings
 to the table, which is: How does my software actually work in production? How do I maintain it and set myself up with tools and methodologies that
 will allow me to build and _maintain_ an amazing product and scale it.
+
+As for personal goals, I am a bit of a Data Hoarder, so I am always interested in learning
+better ways to do distributed storage and media streaming. I also love self hosting services, if possible.
 
 
 ## Areas for Development
