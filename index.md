@@ -44,26 +44,25 @@ I try to keep my working hours to the typical 9-5 office schedule. I try not to
 work outside of regular business hours. However, I have been known to take a break during the day,
 and wrap things up after hours. Availability from 11:30 to 1:30 is hit or miss.
 
-Late morning and early/mid afternoon are my peak productivity hours. I try to center meetings around my
-lunch break mid-day. After 3PM, my productivity sowly wanes into nothing as the day progresses. Lastly,
-I will almost always take an espresso break sometime between 2 and 4 PM, usually 3 PM.
+Late morning and early/mid afternoon are my peak productivity hours. I try to schedule meetings before my
+lunch break mid-day, or well after my lunch break. After 3PM, my productivity sowly wanes into nothing as the day progresses on and on. 
+Lastly, I will almost always take an espresso break sometime between 2 and 4 PM, usually 3 PM. That allows me to get enough energy
+to finish the day productively.
 
 The joys of remote first work is that I am also very flexible. I can start early or later, as needed.
 
 
 ## Communication Preferences
 
-My email inbox is a black hole filled with marketing cruft and automated messages. Expect any emails to disappear
-and never be acknowledged, and be pleasantly surprised if they are. I try to listen for the Slack notification, and
-am on every major chatting App - Telegram, Signal, Slack, Discord, etc etc. In the 21st century, it's harder
-to be avoided than it is to be reached, in my opinion.
-
 Slack is your best bet to reach me during working hours.
+
+My email inbox is a black hole filled with marketing cruft and automated messages. Expect any emails to disappear
+and never be acknowledged, and be pleasantly surprised if they are. In the 21st century, it's harder to be avoided than it is to be reached, in my opinion.
 
 After Hours?
 
 I am liable to ignore my phone (unless on-call or continuing a previous task) after 7PM. Most importantly, I am an avid motorcyclist outside of work, 
-so if I am riding I will be unable to respond. During the week I am at the gym by around 5:30, most days.
+so if I am riding I will be unable to respond. During the week I am at the gym by around 5:30-6:30, most days.
 
 
 ## How To Know I’ve Gone To The Dark Side
